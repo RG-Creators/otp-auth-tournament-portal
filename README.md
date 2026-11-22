@@ -2,25 +2,6 @@
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 
-> [!IMPORTANT]
-> **Commercial Intellectual Property Notice & Source Code Sale:**
-> This repository contains a production-ready, proprietary software solution engineered by **Ronit Goswami (RG Creators)**. It is available for commercial acquisition, full IP buyout, or custom enterprise licensing.
-> 
-> - **Asset Classification:** Esports & High-Security Auth
-> - **Commercial Valuation / Fair Market Estimate:** **₹35,000 – ₹60,000 INR** *(Full Source Code & Commercial Rights)*
-> - **Full IP Buyout & Exclusive Ownership:** **₹80,000 INR**
-> - **Target Industry:** Esports Tournaments, Competitive Gaming, Multi-Factor Auth & Community Portals
-> - **Handover Deliverables:**
->   - Full-stack OTP authentication engine with SMS/WhatsApp channel routing
->   - Esports tournament team registration, roster validation, and match scheduling
->   - Admin management console for bracket progression and match result approvals
->   - Database schemas, seeders, API test collection, and deployment documentation
->   - 30 days of dedicated technical handover and integration support
-> - **Official Portfolio:** [https://rgcreators.netlify.app](https://rgcreators.netlify.app)
-> - **Acquisition & Licensing Inquiries:** [rgcreatorsofficial@gmail.com](mailto:rgcreatorsofficial@gmail.com)
-
----
-
 [![PHPMailer](https://img.shields.io/badge/PHPMailer-6.9-green?style=for-the-badge&logo=php)](https://github.com/PHPMailer/PHPMailer)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
