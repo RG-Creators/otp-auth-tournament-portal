@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verify OTP | ClutchZone</title>
+
+    <!-- External Styles -->
+    <link rel="stylesheet" href="../assets/css/login_style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css"></script>
+</head>
+<body>
+
+<div class="container">
+    <div class="form-box">
+        <h2>Verify OTP</h2>
+        <p>Enter the <strong>6-digit OTP</strong> sent to <strong><?= htmlspecialchars($email) ?></strong></p>
+
+        <form method="POST">
+            <input type="text" name="otp" maxlength="6" class="otp-input" placeholder="Enter OTP" required>
+            <small>Request OTP in <span id="timer">1:00</span></small>
+            <button type="submit">Verify OTP</button>
+            <button type="button" id="resendOtp" class="btn-link" disabled>Resend OTP</button>
+        </form>
+    </div>
+</div>
+
+<script>
+    let countdown = 60;
+    let timerDisplay = document.getElementById("timer");
+    let resendBtn = document.getElementById("resendOtp");
+
+    function updateTimer() {
+        let minutes = Math.floor(countdown / 60);
+        let seconds = countdown % 60;
+        timerDisplay.innerText = `${minutes}:${seconds < 10 ? "0" : ""}${seconds}`;
+        countdown--;
+
+        if (countdown < 0) {
+            clearInterval(timer);
+            resendBtn.removeAttribute("disabled");
+            timerDisplay.innerText = "00:00";
+        }
+    }
+    let timer = setInterval(updateTimer, 1000);
+</script>
+
+</body>
+</html>
