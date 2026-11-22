@@ -9,7 +9,7 @@ A battle-tested One-Time Password (OTP) verification engine and Esports Tourname
 
 ---
 
-## ?? System Architecture
+## 🏗️ System Architecture
 
 ```
 +--------------------------------------------------------------------------+
@@ -36,7 +36,7 @@ A battle-tested One-Time Password (OTP) verification engine and Esports Tourname
 
 ---
 
-## ? Key Highlights
+## ⚡ Key Highlights
 
 - **Time-Sensitive OTP Security**: 6-digit random codes generated via `random_int()` with a strict 5-minute validity window.
 - **PHPMailer SMTP Dispatch**: Integrated transactional email relay for real-time delivery of authentication challenges.
@@ -46,7 +46,7 @@ A battle-tested One-Time Password (OTP) verification engine and Esports Tourname
 
 ---
 
-## ?? Tech Stack
+## 🛠️ Tech Stack
 
 - **Backend**: Core PHP 8.2+, PHPMailer
 - **Frontend**: Custom Glassmorphism CSS3, Vanilla JS OTP Input Auto-Tab
@@ -54,7 +54,7 @@ A battle-tested One-Time Password (OTP) verification engine and Esports Tourname
 
 ---
 
-## ?? Quick Start
+## 🚀 Quick Start
 
 1. **Clone the Repository**:
    ```bash
@@ -81,5 +81,5 @@ A battle-tested One-Time Password (OTP) verification engine and Esports Tourname
 
 ---
 
-## ?? License
+## 📄 License
 This project is open-source under the [MIT License](LICENSE).
