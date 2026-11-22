@@ -1,6 +1,26 @@
 # Secure OTP Authentication & Esports Tournament Platform
 
 [![PHP Version](https://img.shields.io/badge/PHP-8.2%2B-777bb4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+
+> [!IMPORTANT]
+> **Commercial Intellectual Property Notice & Source Code Sale:**
+> This repository contains a production-ready, proprietary software solution engineered by **Ronit Goswami (RG Creators)**. It is available for commercial acquisition, full IP buyout, or custom enterprise licensing.
+> 
+> - **Asset Classification:** Esports & High-Security Auth
+> - **Commercial Valuation / Fair Market Estimate:** **₹35,000 – ₹60,000 INR** *(Full Source Code & Commercial Rights)*
+> - **Full IP Buyout & Exclusive Ownership:** **₹80,000 INR**
+> - **Target Industry:** Esports Tournaments, Competitive Gaming, Multi-Factor Auth & Community Portals
+> - **Handover Deliverables:**
+>   - Full-stack OTP authentication engine with SMS/WhatsApp channel routing
+>   - Esports tournament team registration, roster validation, and match scheduling
+>   - Admin management console for bracket progression and match result approvals
+>   - Database schemas, seeders, API test collection, and deployment documentation
+>   - 30 days of dedicated technical handover and integration support
+> - **Official Portfolio:** [https://rgcreators.netlify.app](https://rgcreators.netlify.app)
+> - **Acquisition & Licensing Inquiries:** [rgcreatorsofficial@gmail.com](mailto:rgcreatorsofficial@gmail.com)
+
+---
+
 [![PHPMailer](https://img.shields.io/badge/PHPMailer-6.9-green?style=for-the-badge&logo=php)](https://github.com/PHPMailer/PHPMailer)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -83,3 +103,31 @@ A battle-tested One-Time Password (OTP) verification engine and Esports Tourname
 
 ## 📄 License
 This project is open-source under the [MIT License](LICENSE).
+
+
+---
+
+## 🚀 Future Roadmap & Next-Gen Implementation Ideas (Ready for Expansion)
+
+The following extensive architectural and feature expansions have been designed and architected for rapid implementation, transforming this solution into a high-capacity, enterprise-grade platform:
+
+1. **Automated Multi-Format Tournament Brackets:** Single Elimination, Double Elimination, Round Robin, and Swiss Tournament algorithms.
+2. **Direct Game API Verification & Live Stats Sync:** Riot Games (Valorant), Steam (CS2), and Krafton (BGMI) stats scraping and automated score verification.
+3. **Multi-Channel Smart Fallback OTP Routing:** Automatic failover routing (WhatsApp -> SMS -> Voice Call OTP) reducing auth drop-off to zero.
+4. **Automated Prize Pool Escrow & Instant UPI Payouts:** Instant prize distribution directly to winning team captains UPI VPAs.
+5. **Anti-Cheat & Smurf Account Detection:** Device fingerprinting and IP velocity checks preventing banned players from re-entering tournaments.
+6. **Real-Time Live Match Scoreboards & Twitch Embeds:** Low-latency WebSocket scoreboard updates synced with live Twitch and YouTube streams.
+7. **Team Roster Management with Substitution Approvals:** Automated verification of player eligibility and roster lock periods.
+8. **Automated Discord Bot Community Bridge:** Auto-generates private Discord match channels for competing teams and broadcasts bracket updates.
+9. **Custom Tournament White-Label Builder:** Generate custom tournament landing pages with sponsor banners in under 5 minutes.
+10. **Mobile Referee App with Instant Dispute Management:** Referees can view submitted screenshot proofs and resolve match disputes on mobile.
+
+---
+
+## 💼 Commercial Acquisition & Licensing Agreement
+
+For source code inspection, live technical walkthrough, pricing negotiations, or exclusive enterprise buyout:
+- **Lead Architect & Developer:** Ronit Goswami (RG Creators)
+- **Primary Contact Email:** [rgcreatorsofficial@gmail.com](mailto:rgcreatorsofficial@gmail.com)
+- **Official Portfolio:** [https://rgcreators.netlify.app](https://rgcreators.netlify.app)
+- **Location:** Kolkata, West Bengal, India
